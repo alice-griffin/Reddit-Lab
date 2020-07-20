@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-btn {
+    display: flex;
+    justify-content: center; 
+}
+
+

@@ -1,0 +1,16 @@
+app-singleresult {
+    background-color: white;
+    width: 50%; 
+    display: flex;
+    margin: 0 auto; 
+    border-left: 1px solid black;
+    border-right: 1px solid black; 
+}
+
+app-singleresult:first-child {
+    border-top:  1px solid black; 
+}
+
+app-singleresult:last-child {
+    border-bottom: 1px solid black; 
+}
